@@ -1,0 +1,12 @@
+{
+  "name": "nodejs_task_1",
+  "version": "1.0.0",
+  "description": "This is a simple node js server created as a solution to the nodejs intro assignment by I4gxZuri",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node index.js"
+  },
+  "author": "Joseph Fadiji",
+  "license": "ISC"
+}
